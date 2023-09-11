@@ -1,4 +1,4 @@
-# vueday03
+# 基于Vue的仿饿了么手机端练习
 
 ## Project setup
 ```
